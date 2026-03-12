@@ -1,0 +1,26 @@
+# Basic Jekyll configuration
+title: Ceilifreelance
+description: Ceilifreelance site
+theme: jekyll-theme-primer
+
+# Specify source and destination if needed, or leave as default
+# source: docs   # Uncomment if your site files are in the docs directory
+# destination: _site
+
+# Plugins example, add as needed
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+# Defaults for asset handling
+sass:
+  style: compressed
+
+# Exclude files/folders from build
+exclude:
+  - node_modules
+  - README.md
+
+# Optional: Custom directories for assets
+# If your assets are not in the default directories, specify them
+# collections_dir: docs
