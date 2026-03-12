@@ -1,0 +1,15 @@
+title: Ceilifreelance
+description: Ceilifreelance site
+theme: jekyll-theme-primer
+
+source: github/workspace
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+sass:
+  style: compressed
+
+exclude:
+  - node_modules
