@@ -4,7 +4,6 @@ description: Ceilifreelance site
 theme: jekyll-theme-primer
 
 # Specify source and destination if needed, or leave as default
-# source: docs   # Uncomment if your site files are in the docs directory
 # destination: _site
 
 # Plugins example, add as needed
