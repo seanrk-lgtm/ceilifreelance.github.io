@@ -19,7 +19,3 @@ sass:
 exclude:
   - node_modules
   - README.md
-
-# Optional: Custom directories for assets
-# If your assets are not in the default directories, specify them
-# collections_dir: docs
