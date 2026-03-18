@@ -2,8 +2,6 @@ title: Ceilifreelance
 description: Ceilifreelance site
 theme: jekyll-theme-primer
 
-source: .  # <-- Or uncomment and set to '.'
-
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
