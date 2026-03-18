@@ -7,6 +7,7 @@ plugins:
   - jekyll-github-metadata
 
 sass:
+  sass_dir: assets/css
   style: compressed
 
 exclude:
