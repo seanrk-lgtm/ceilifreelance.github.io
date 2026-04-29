@@ -1,10 +1,13 @@
 {
-    "files.exclude": {
-        "**/.git": true,
-        "**/*.log": true,
-        "**/.*": true,
-        "**/*.csproj": true,
-        "**/bin": true,
-        "**/obj": true
-    }
+  "files.exclude": {
+    "**/.git": true,
+    "**/*.log": true,
+    "**/.*": true,
+    "**/*.csproj": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/node_modules": true,
+    "**/_site": true,
+    "**/.sass-cache": true
+  }
 }
