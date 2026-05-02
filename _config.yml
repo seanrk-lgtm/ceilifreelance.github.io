@@ -5,10 +5,6 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
+  
 exclude:
   - node_modules
